@@ -1,0 +1,23 @@
+{
+  "name": "task-14.8",
+  "version": "1.0.0",
+  "description": "React exercise - Gif search",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "http-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dobi01/task-14.8.git"
+  },
+  "author": "Dobi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dobi01/task-14.8/issues"
+  },
+  "homepage": "https://github.com/dobi01/task-14.8#readme",
+  "devDependencies": {
+    "http-server": "^0.11.1"
+  }
+}
